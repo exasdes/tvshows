@@ -4,7 +4,7 @@ During the break of the Emmy 2020 award Marvel and Disney+ presented the first t
 
 ![Branching](WandaVision1.jpg)
 
-## Newlyweds .
+## Newlyweds 
 
 The film starts with a black and white frame: Wanda and Vision drive into a nice suburb of Westview in a car with the inscription "Newlyweds". These scenes recreate the look and feel of old American TV series like "I Love Lucy" and "My Wife Mesmerized Me". Wanda and Vision play a happy couple - enjoy a new home, a married life in a world without Avengers, super villains and other problems.
 
