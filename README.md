@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# "M Day" and classic costumes: What was shown in the trailer of the series "Wanda/Vision".
 
-You can use the [editor on GitHub](https://github.com/exasdes/tvshows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+During the break of the Emmy 2020 award Marvel and Disney+ presented the first trailer of the mini-series "Wanda/Vision". Judging by the video, the viewers will see a very unusual project - with the change of reality, references to classic comedy series and the feeling that everything that happens is a fake. We get to know what we saw in the trailer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Branching](WandaVision1.jpg)
 
-### Markdown
+## Newlyweds .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The film starts with a black and white frame: Wanda and Vision drive into a nice suburb of Westview in a car with the inscription "Newlyweds". These scenes recreate the look and feel of old American TV series like "I Love Lucy" and "My Wife Mesmerized Me". Wanda and Vision play a happy couple - enjoy a new home, a married life in a world without Avengers, super villains and other problems.
 
-```markdown
-Syntax highlighted code block
+However, the new life is not as joyful as it might seem at first sight. In addition to the annoying neighbor performed by Katherine Hahn (we will return to her later), there are also the characters Debra Joe Rapp and Fred Melamed, who insist on Wanda and Vision to tell about their lives. At this point, the reality around the characters starts to crack.
 
-# Header 1
-## Header 2
-### Header 3
+![Branching](WandaVision3.jpeg)
 
-- Bulleted
-- List
+## Renaissance Vision
 
-1. Numbered
-2. List
+The main question of the series is how did Vision come to life, killed by Tanos in "War of Infinity". It is assumed that he was resurrected by Wanda, using new opportunities of his superpowers. In Marvel, the heroine Elizabeth Olsen used them mostly for telekinesis, but in comics she is able to change reality.
 
-**Bold** and _Italic_ and `Code` text
+Judging by the video, Wanda used her powers to not just make a copy of her lover, but to really bring him back from the dead. In the dinner scene, you can see that Paul Bettany's hero begins to doubt the reality of what is happening, and in the other scene, already in the familiar form of Marvel movies watching life in Westview from above. All this actually confirms that the resurrected Vision has its own mind and is not part of Wanda.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/exasdes/tvshows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In addition, the Stone of Mind, the source of his life, burns in Vision's forehead. Either Wanda was able to recreate one of the Stones of Infinity, or she found a replacement for an important part of Vision.
